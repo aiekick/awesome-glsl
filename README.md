@@ -58,7 +58,7 @@ The following is a compilation of the best resources I have found in my way to l
 * [Synthclipse](http://synthclipse.sourceforge.net/index.html) - Synthclipse is a GLSL shader prototyping tool.
 * [GLSLViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Live GLSL coding render for MacOS and Linux.
 * [GLSLScene](https://github.com/jwurzer/glslScene) - Provides an environment for testing and developing GLSL shader programs (Windows).
-* [WxShade](https://github.com/aiekick/wxShade) - A easy tool for newbie for create GLSL Shader (many widget availables and a in app text editor)
+* [wxShade](https://github.com/aiekick/wxShade) - A easy tool for newbie for create GLSL Shader (many widget availables and a in app text editor)
 * [NoodlesPlate](https://github.com/aiekick/NoodlesPlate) A Advanced Tool for create GLSL Shaders with many widgets and features
 * [SdfFontDesigner](https://github.com/aiekick/SdfFontDesigner) A tool for create bitmap font with GLSL Shaders
 
