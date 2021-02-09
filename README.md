@@ -51,12 +51,16 @@ The following is a compilation of the best resources I have found in my way to l
 * [Color Correction](https://timseverien.com/posts/2020-06-19-colour-correction-with-webgl/) Great expanation about how colour manipulation works by Tim Severien
 
 ## Books
+
 ## Tools
 * [RenderDoc](https://renderdoc.org/builds) - Stand-alone graphics debugger.
 * [Shader Designer](https://www.opengl.org/sdk/tools/ShaderDesigner/) - TyphoonLabs' OpenGL Shader Designer
 * [Synthclipse](http://synthclipse.sourceforge.net/index.html) - Synthclipse is a GLSL shader prototyping tool.
 * [GLSLViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Live GLSL coding render for MacOS and Linux.
 * [GLSLScene](https://github.com/jwurzer/glslScene) - Provides an environment for testing and developing GLSL shader programs (Windows).
+* [WxShade](https://github.com/aiekick/wxShade) - A easy tool for newbie for create GLSL Shader (many widget availables and a in app text editor)
+* [NoodlesPlate](https://github.com/aiekick/NoodlesPlate) A Advanced Tool for create GLSL Shaders with many widgets and features
+* [SdfFontDesigner](https://github.com/aiekick/SdfFontDesigner) A tool for create bitmap font with GLSL Shaders
 
 # Videos
 * [Greg Tatum](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) - 5 videos explaining how to implement lighting from scratch in WebGL.
